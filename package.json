@@ -1,0 +1,22 @@
+{
+  "name": "gluckali-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gluckali/Gluckali-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gluckali/Gluckali-website/issues"
+  },
+  "homepage": "https://github.com/gluckali/Gluckali-website#readme",
+  "devDependencies": {
+    "firebase-tools": "^8.11.2"
+  }
+}
